@@ -4,4 +4,8 @@
 2) Github 연동 및 REAME.md, .gitignore파일 생성
 
 
+# 2차(20210501)
 
+1) Oauth(시작)
+- 구글 로그인(API)
+- 네이버 로그인(API)
