@@ -1,5 +1,11 @@
 # 프로젝트 전체 개요
 
+* Java
+  * JDK(1.8)
+  * Spring Boot
+    * Gradle
+    * TDD(Junit 4.x)
+
 
 ## 1차(20210428)
 
